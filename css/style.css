@@ -1,0 +1,107 @@
+form {
+    width: 200%;
+    max-width: 400px;
+    text-align: center;
+    border: solid 10px #c2c2c2;
+    padding-bottom: 70px;
+    margin: auto;
+    background: #fafafa;
+    
+    
+  }
+  input[type=textfield] {
+      width: 15%;
+      padding: 16px 32px;
+      font-size: 300px;
+      margin: 8px 0;
+      border: 1px solid silver;
+      border-radius: 1px;
+      text-align: left;
+      color: #333;
+      background: #ccc;
+  }
+  input[type=button], input[type=submit], input[type=reset] {
+      background-color: orange;
+      border: none;
+      color: white;
+      padding: 16px 32px;
+      font-size: 16px;
+      min-width: 21%;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+      font-size: 24px;
+    ;
+  }
+  input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+    background-color: #333;
+  }
+
+  label{
+    font-family: "Sofia", sans-serif;
+    font-size: 25px;
+  }
+
+  input.resta {
+    background-color: blue;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    font-size: 16px;
+    min-width: 21%;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 24px;
+  ;
+  }
+
+
+  input.multiplicacion {
+    background-color: red;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    font-size: 16px;
+    min-width: 21%;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 24px;
+  ;}
+
+    input.division {
+        background-color: purple;
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        font-size: 16px;
+        min-width: 21%;
+        text-decoration: none;
+        margin: 4px 2px;
+        cursor: pointer;
+        font-size: 24px;
+        }
+
+
+      #limpiar {
+            background-color: green ;
+            border: none;
+            color: white;
+            padding: 16px 32px;
+            font-size: 16px;
+            min-width: 21%;
+            text-decoration: none;
+            margin: 4px 2px;
+            cursor: pointer;
+            font-size: 24px;}
+
+            h1{
+                font-size: 35px;
+                font-style: Forte ;
+                text-align-last: center;
+                color: black 
+                float: center;
+                }
+
+                
